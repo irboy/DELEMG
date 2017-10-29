@@ -1,8 +1,8 @@
-# [BDManager v2.0](https://t.me/BeyondTeam)
-An advanced administration bot based on BDMessenger
+# [deleteManager v2.0](https://t.me/m)
+An advanced administration bot based on deleteMessenger
 
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.4-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
+[![https://t.me/am](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/m)
 
 * * *
 
@@ -17,11 +17,11 @@ An advanced administration bot based on BDMessenger
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDManager.git
-cd BDManager
-chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh 
+git clone https://github.com/irboy/DELEMG.git
+cd DELEMG
+chmod +x delete.sh
+./delete.sh install
+./delete.sh 
 
 
 # For Auto Launch:
@@ -33,34 +33,23 @@ tmux
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/irboy/DELEMG.git && cd DELEMG && chmod +x delete.sh && ./delete.sh install && ./delete.sh
 ```
 
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+More information [delete Global Chat](https://t.me/joinchat/)
 
 # Special thanks to
 
-`Beyond Team Members`
+`delete Team Members`
 
 * * *
-
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://t.me/MAKAN))
-
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
-
-[TheNIS](https://t.me/bypa3r)
-
 ### Our Telegram Channel:
 
-[@BeyondTeam](https://t.me/BeyondTeam)
+[@deleteTeam](https://t.me/m)
 
 ### Our Forum:
 
-[Beyond Team Forum](https://Beyond-Dev.ir)
+[delete Team Forum](https://delete-Dev.ir)
